@@ -1,0 +1,7 @@
+openai
+speechrecognition
+pyttsx3
+youtube-transcript-api
+fpdf
+streamlit
+pyaudio
